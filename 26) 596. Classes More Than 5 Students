@@ -49,7 +49,7 @@ Explanation:
 - Biology has 1 student, so we do not include it.
 - Computer has 1 student, so we do not include it.
 
-----------------------------------------------------------
+------------------------------------------------------------
 SOLUTION:
 SELECT class
 FROM courses
